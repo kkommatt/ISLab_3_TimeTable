@@ -1,0 +1,220 @@
+{
+  "times": [
+    {
+      "day": "Monday",
+      "time": 1
+    },
+    {
+      "day": "Monday",
+      "time": 2
+    },
+    {
+      "day": "Monday",
+      "time": 3
+    },
+    {
+      "day": "Monday",
+      "time": 4
+    },
+    {
+      "day": "Tuesday",
+      "time": 1
+    },
+    {
+      "day": "Tuesday",
+      "time": 2
+    },
+    {
+      "day": "Tuesday",
+      "time": 3
+    },
+    {
+      "day": "Tuesday",
+      "time": 4
+    },
+    {
+      "day": "Wednesday",
+      "time": 1
+    },
+    {
+      "day": "Wednesday",
+      "time": 2
+    },
+    {
+      "day": "Wednesday",
+      "time": 3
+    },
+    {
+      "day": "Wednesday",
+      "time": 4
+    },
+    {
+      "day": "Thursday",
+      "time": 1
+    },
+    {
+      "day": "Thursday",
+      "time": 2
+    },
+    {
+      "day": "Thursday",
+      "time": 3
+    },
+    {
+      "day": "Thursday",
+      "time": 4
+    },
+    {
+      "day": "Friday",
+      "time": 1
+    },
+    {
+      "day": "Friday",
+      "time": 2
+    },
+    {
+      "day": "Friday",
+      "time": 3
+    },
+    {
+      "day": "Friday",
+      "time": 4
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Linux OS",
+      "hours": 5
+    },
+    {
+      "name": "Object-oriented Programming",
+      "hours": 6
+    },
+    {
+      "name": "Intellectual Systems",
+      "hours": 2
+    },
+    {
+      "name": "IT",
+      "hours": 5
+    }
+  ],
+  "groups": [
+    {
+      "title": "TTP-4",
+      "student_count": 30,
+      "subject_names": [
+        "Intellectual Systems",
+        "Linux OS",
+        "Object-oriented Programming",
+        "IT"
+      ]
+    },
+    {
+      "title": "MI-4",
+      "student_count": 20,
+      "subject_names": [
+        "Object-oriented Programming",
+        "Linux OS",
+        "IT"
+      ]
+    },
+    {
+      "title": "TC-4",
+      "student_count": 10,
+      "subject_names": [
+        "Linux OS",
+        "Intellectual Systems",
+        "IT"
+      ]
+    },
+    {
+      "title": "TTP-3",
+      "student_count": 10,
+      "subject_names": [
+        "Object-oriented Programming",
+        "Intellectual Systems",
+        "IT"
+      ]
+    }
+  ],
+  "lectors": [
+    {
+      "name": "Taranukha",
+      "can_teach": [
+        "Linux OS",
+        "Object-oriented Programming",
+        "Intellectual Systems"
+      ]
+    },
+    {
+      "name": "Mysechko",
+      "can_teach": [
+        "Linux OS",
+        "Intellectual Systems"
+      ]
+    },
+    {
+      "name": "Baschuk",
+      "can_teach": [
+        "Object-oriented Programming",
+        "Linux OS"
+      ]
+    },
+    {
+      "name": "Fedorus",
+      "can_teach": [
+        "Object-oriented Programming",
+        "IT"
+      ]
+    },
+    {
+      "name": "Tkachenko",
+      "can_teach": [
+        "IT"
+      ]
+    }
+  ],
+  "classrooms": [
+    {
+      "name": "1",
+      "max_student_count": 20
+    },
+    {
+      "name": "2",
+      "max_student_count": 12
+    },
+    {
+      "name": "3",
+      "max_student_count": 25
+    },
+    {
+      "name": "4",
+      "max_student_count": 45
+    },
+    {
+      "name": "5",
+      "max_student_count": 30
+    },
+    {
+      "name": "101",
+      "max_student_count": 50
+    },
+    {
+      "name": "102",
+      "max_student_count": 30
+    },
+    {
+      "name": "103",
+      "max_student_count": 50
+    },
+    {
+      "name": "104",
+      "max_student_count": 45
+    },
+    {
+      "name": "105",
+      "max_student_count": 30
+    }
+  ]
+}
